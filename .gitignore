@@ -1,2 +1,5 @@
 *.pdf
 .texpadtmp/**
+
+
+!latex_guide_lhy.pdf
